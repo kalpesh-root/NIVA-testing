@@ -1,0 +1,9 @@
+{
+  "name": "angular-app",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo Building Angular App",
+    "test": "echo Running Angular Tests"
+  },
+  "dependencies": {}
+}
